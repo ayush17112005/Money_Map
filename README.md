@@ -1,6 +1,11 @@
 # Finance Dashboard
 
 A frontend-only finance dashboard built for assignment evaluation, focused on clean UX, role-based interaction, and modular React architecture.
+<img width="1551" height="313" alt="image" src="https://github.com/user-attachments/assets/e536898a-8291-4e29-9336-99194e404a9b" />
+<img width="1558" height="834" alt="image" src="https://github.com/user-attachments/assets/24446fd3-e642-472a-8f2c-099a0ada1509" />
+<img width="1758" height="821" alt="image" src="https://github.com/user-attachments/assets/1e02dd23-be32-465b-8d07-79b29f44f545" />
+<img width="916" height="846" alt="image" src="https://github.com/user-attachments/assets/051028c1-851e-4362-98d4-54fa92982be1" />
+
 
 ## Overview
 
